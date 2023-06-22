@@ -1,3 +1,4 @@
+# 读取图片，视频
 import cv2 as cv
 
 img = cv.imread('Photos/cat.jpg')
